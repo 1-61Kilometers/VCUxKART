@@ -25,7 +25,7 @@ This README provides an overview of methods to develop interactive games using U
 
 ## Plastic SCM Controls
 
-1. Project Creation https://www.plasticscm.com/download
+1. Project Creation [PlasticSCM Download](https://www.plasticscm.com/download)
 2. Team Invitation
 3. Project Management
 4. Debugging/Troubleshooting
