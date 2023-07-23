@@ -19,7 +19,7 @@ This README provides an overview of methods to develop interactive games using U
 
 ## Figma
 
-1. Project Flow Using Figma: The Collaborative Interface Design Tool
+1. [Project Flow Using Figma: The Collaborative Interface Design Tool](https://www.figma.com/)
 2. Collaboration
 3. Idea Segmentation and Union
 
